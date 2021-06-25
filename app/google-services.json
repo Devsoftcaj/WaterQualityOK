@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154560795322",
+    "project_id": "waterquality-tfg",
+    "storage_bucket": "waterquality-tfg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154560795322:android:a96a80dbb1983d2b502883",
+        "android_client_info": {
+          "package_name": "com.cmartosreyes.waterquality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154560795322-tamu7aprssing4j8m500heq7s73rvro7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUyaeucjUL68PHUb3tqDToTQq0mtgKjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154560795322-tamu7aprssing4j8m500heq7s73rvro7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
